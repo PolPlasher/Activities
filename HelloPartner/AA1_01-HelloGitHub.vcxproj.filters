@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="AA1_01-HelloGitHub.cpp">
+    <ClCompile Include="HelloPartner.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

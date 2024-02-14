@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello GitHub!\n";
+    std::cout << "Hello Pol!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
