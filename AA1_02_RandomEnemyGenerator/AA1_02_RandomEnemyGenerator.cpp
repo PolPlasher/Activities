@@ -3,6 +3,8 @@
 
 int main()
 {
+	const int MAX_ENEMIES = 5;
+	Enemy enemies[MAX_ENEMIES];
 	return 0;
 }
 
